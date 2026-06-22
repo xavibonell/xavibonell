@@ -15,10 +15,7 @@
 **Frontend** — React · Next.js · Vue · Nuxt · Tailwind  
 **Backend / Infra** — Node.js · Docker · Vercel · Netlify
 
-## Selected work
-- [BASS](https://bassbcn.com) — creative-hub site, awarded GSAP **Site of the Day** (built at digital of things)
-
 ## Connect
 - LinkedIn — https://www.linkedin.com/in/xavibonell/
 - Studio — https://digitalofthings.studio
-- Email — your@email.com
+- Email — xavibonell@gmail.com
